@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#1d1d1d"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="组_1478" data-name="组 1478" transform="translate(-91 -243)">
+    <g id="组_1324" data-name="组 1324" transform="translate(4183 -839)">
+      <rect id="矩形_1262" data-name="矩形 1262" width="45" height="45" rx="22.5" transform="translate(-4092 1082)" fill="#2e2e2e"/>
+      <rect id="矩形_1263" data-name="矩形 1263" width="34" height="34" rx="17" transform="translate(-4082 1091)" opacity="0.4" fill="url(#radial-gradient)"/>
+      <rect id="矩形_1264" data-name="矩形 1264" width="21" height="21" rx="10.5" transform="translate(-4071 1102)" opacity="0.4" fill="url(#radial-gradient-2)"/>
+    </g>
+    <g id="组_1477" data-name="组 1477">
+      <path id="涉及分类" d="M73.068,64.1h-7.2A1.769,1.769,0,0,0,64.1,65.863v7.2a1.769,1.769,0,0,0,1.763,1.763h7.2a1.769,1.769,0,0,0,1.763-1.763v-7.2A1.769,1.769,0,0,0,73.068,64.1Zm0,14.293h-7.2A1.769,1.769,0,0,0,64.1,80.156v7.2a1.769,1.769,0,0,0,1.763,1.763h7.2a1.769,1.769,0,0,0,1.763-1.763v-7.2A1.769,1.769,0,0,0,73.068,78.393Zm7.114-3.564h7.182a1.768,1.768,0,0,0,1.76-1.763v-7.2a1.766,1.766,0,0,0-1.76-1.763H80.182a1.768,1.768,0,0,0-1.76,1.763v7.2a1.77,1.77,0,0,0,1.76,1.763ZM90.035,88.65l-1.76-1.643a5.4,5.4,0,1,0-4.437,2.34,5.337,5.337,0,0,0,3.125-1.01.878.878,0,0,0,.088.094l1.772,1.655A.875.875,0,0,0,90.108,90,.986.986,0,0,0,90.035,88.65Zm-4.15-2.771a2.97,2.97,0,0,1-2.1.879,2.936,2.936,0,0,1-2.1-.879,2.982,2.982,0,0,1,2.1-5.084,2.976,2.976,0,0,1,2.1,5.084Z" transform="translate(36.774 188.536)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
